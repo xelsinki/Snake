@@ -4,12 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*      This is just new Branch
- *              new Branch
- *              new Branch
- *              new Branch
- *              new Branch      */
-
 namespace Snake
 {
     class Program
